@@ -1,5 +1,5 @@
 # WordleBotES
-A wordle bot that solves the game in spanish.
+A wordle bot that solves the game in spanish. A brief article(in Spanish) explaining how it works can be found here: https://github.com/Enguenye/WordleBotES/blob/main/Teoria_de_la_informaci%C3%B3n_y_wordle.pdf
 
 Run the Front.py file to run the interface.
 
